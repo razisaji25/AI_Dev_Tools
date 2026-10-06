@@ -1,0 +1,4 @@
+incidents/
+__pycache__/
+*.py[cod]
+service.*.log
